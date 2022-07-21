@@ -1,11 +1,10 @@
 import React, { Component } from 'react'
-import { connect } from 'react-redux';
-import { setBooks } from './Actions/books'
 import axios from 'axios'
-import Menu from './components/Menu';
 import { Container } from '@mui/material';
-import BookCard from './components/BookCard';
+import BookCard from '../containers/BookCard';
 import styles from './App.module.css'
+import Menu from '../containers/Menu'
+import Filter from './Filter';
 
 class App extends Component {
   componentWillMount() {
@@ -14,12 +13,13 @@ class App extends Component {
       setBooks(data)
     })
   }
-
   render() {
-    const { books, isReady } = this.props
+    const { books, isReady, setFilter, searchQuery, setSearchQuery } = this.props
+    console.log(this.books);
     return (
       <Container fixed>
         <Menu />
+        <Filter setFilter={setFilter} searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
         <div className={styles.cards}>
           {!isReady
             ? "...Завантаження"
@@ -32,13 +32,4 @@ class App extends Component {
   }
 }
 
-const mapStateToProps = ({ books }) => ({
-  books: books.items,
-  isReady: books.isReady
-})
-
-const mapDispatchToProps = dispatch => ({
-  setBooks: books => dispatch(setBooks(books)) 
-})
-
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+export default App

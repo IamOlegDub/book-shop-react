@@ -1,8 +1,8 @@
 [
   {
     "id": 0,
-    "title": "Происхождение",
-    "author": "Дэн Браун",
+    "title": "Виникнення",
+    "author": "Ден Браун",
     "image": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/27624091-den-braun-proishozhdenie-27624091.jpg",
     "price": 710,
     "rating": 3
@@ -10,47 +10,47 @@
   {
     "id": 1,
     "title": "1984",
-    "author": "Джордж Оруэлл",
+    "author": "Джордж Оруелл",
     "image": "https://cv0.litres.ru/sbc/09233908_cover_185-elektronnaya-kniga--.jpg",
     "price": 415,
     "rating": 5
   },
   {
     "id": 2,
-    "title": "Девушка в тумане",
-    "author": "Донато Карризи",
+    "title": "Дівчина в тумані",
+    "author": "Донато Каррізі",
     "image": "https://cv2.litres.ru/sbc/31635724_cover_185-elektronnaya-kniga-donato-karrizi-devushka-v-tumane.jpg",
     "price": 464,
     "rating": 4
   },
   {
     "id": 3,
-    "title": "Империя должна умереть",
-    "author": "Михаил Зыгарь",
+    "title": "Імперія повинна вмерти",
+    "author": "Михайло Зюгар",
     "image": "https://cv0.litres.ru/sbc/30804904_cover_185-elektronnaya-kniga-mihail-zygar-imperiya-dolzhna-umeret.jpg",
     "price": 741,
     "rating": 3
   },
   {
     "id": 4,
-    "title": "Земное притяжение",
-    "author": "Татьяна Устинова",
+    "title": "Зимова казка",
+    "author": "Тетяна Українка",
     "image": "https://cv9.litres.ru/sbc/30087292_cover_185-elektronnaya-kniga-tatyana-ustinova-zemnoe-prityazhenie.jpg",
     "price": 317,
     "rating": 1
   },
   {
     "id": 5,
-    "title": "Зулейха открывает глаза",
-    "author": "Гузель Яхина",
+    "title": "Зулейка відкриває очі",
+    "author": "Гузель Яхіна",
     "image": "https://cv5.litres.ru/sbc/17411250_cover_185-elektronnaya-kniga-guzel-yahina-zuleyha-otkryvaet-glaza-2.jpg",
     "price": 254,
     "rating": 0
   },
   {
     "id": 6,
-    "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
-    "author": "Джулия Эндерс",
+    "title": "Чарівний кишечник",
+    "author": "Джулія Ендерс",
     "image": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_120/12178377-dzhuliya-enders-ocharovatelnyy-kishechnik-kak-samyy-moguschestvennyy-organ-upravlyaet-nami-12178377.jpg",
     "price": 573,
     "rating": 4
@@ -58,15 +58,15 @@
   {
     "id": 7,
     "title": "iPhuck 10",
-    "author": "Виктор Пелевин",
+    "author": "Віктор Полювко",
     "image": "https://cv7.litres.ru/sbc/31221870_cover_185-elektronnaya-kniga-viktor-pelevin-iphuck-10-25564903.jpg",
     "price": 246,
     "rating": 0
   },
   {
     "id": 8,
-    "title": "7 навыков высокоэффективных людей: Мощные...",
-    "author": "Стивен Кови",
+    "title": "7 навичок високоефективних людей",
+    "author": "Стівен Ков",
     "image": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/4239285--.jpg",
     "price": 347,
     "rating": 5
@@ -74,39 +74,39 @@
   {
     "id": 9,
     "title": "Девушка во льду",
-    "author": "Роберт Брындза",
+    "author": "Роберт Бриндза",
     "image": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/27351732-robert-bryndza-12646976-devushka-vo-ldu.jpg",
     "price": 882,
     "rating": 2
   },
   {
     "id": 10,
-    "title": "Магия утра. Как первый час дня определяет ваш успех",
-    "author": "Хэл Элрод",
+    "title": "Магія утра. Как первий час дня определяет ваш успех",
+    "author": "Хел елрод",
     "image": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/19063017-hel-elrod-magiya-utra.jpg",
     "price": 829,
     "rating": 1
   },
   {
     "id": 11,
-    "title": "Азиатская европеизация. История Российского государства. Царь Петр...",
-    "author": "Борис Акунин",
+    "title": "Азіатска европеїзація. історія орків. Цар Х...",
+    "author": "Боріс Акунін",
     "image": "https://cv3.litres.ru/sbc/31629439_cover_185-elektronnaya-kniga-boris-akunin-aziatskaya-evropeizaciya-istoriya-rossiyskogo-gosudarstva-car-petr-alekseevich.jpg",
     "price": 389,
     "rating": 2
   },
   {
     "id": 12,
-    "title": "Ведьмак (сборник)",
-    "author": "Анджей Сапковский",
+    "title": "Відьмак (збірник)",
+    "author": "Анджей Сапковскій",
     "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/6375365-andzhey-sapkovskiy-vedmak.jpg",
     "price": 424,
     "rating": 3
   },
   {
     "id": 13,
-    "title": "Атлант расправил плечи",
-    "author": "Айн Рэнд",
+    "title": "Атлант расправіл плечі",
+    "author": "Айн Ренд",
     "image": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_415/4236675-ayn-rend-atlant-raspravil-plechi.jpg",
     "price": 157,
     "rating": 2
@@ -114,15 +114,15 @@
   {
     "id": 14,
     "title": "Цена вопроса. Том 1",
-    "author": "Александра Маринина",
+    "author": "Александра Марініна",
     "image": "https://cv6.litres.ru/sbc/33285466_cover_185-elektronnaya-kniga-aleksandra-marinina-cena-voprosa-tom-1-22638660.jpg",
     "price": 664,
     "rating": 0
   },
   {
     "id": 15,
-    "title": "Исчезнувшая",
-    "author": "Гиллиан Флинн",
+    "title": "Зникла",
+    "author": "Гілліан Флінн",
     "image": "https://cv2.litres.ru/sbc/11029722_cover_185-elektronnaya-kniga-gillian-flinn-ischeznuvshaya.jpg",
     "price": 476,
     "rating": 4
@@ -130,23 +130,23 @@
   {
     "id": 17,
     "title": "Метро 2035",
-    "author": "Дмитрий Глуховский",
+    "author": "Дмітрій Глуховскій",
     "image": "https://cv9.litres.ru/sbc/13698392_cover_185-elektronnaya-kniga-dmitriy-gluhovskiy-metro-2035.jpg",
     "price": 837,
     "rating": 4
   },
   {
     "id": 18,
-    "title": "Снеговик",
-    "author": "Ю Несбё",
+    "title": "Снеговік",
+    "author": "Ю Несбе",
     "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/4578362-u-nesbe-snegovik-4578362.jpg",
     "price": 796,
     "rating": 5
   },
   {
     "id": 19,
-    "title": "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
-    "author": "Джонатан Хэнкок",
+    "title": "Как треніровать память. Не думайте о памяті – лучше іспользуйте її на всі сто!",
+    "author": "Джонатан Хенкок",
     "image": "https://cv1.litres.ru/sbc/14195715_cover_185-elektronnaya-kniga-dzhonatan-henkok-kak-trenirovat-pamyat-ne-dumayte-o-pamyati-luchshe-ispolzuyte-ee-na-vse-sto.jpg",
     "price": 399,
     "rating": 5
