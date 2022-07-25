@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "title": "Виникнення",
+    "title": "Походження",
     "author": "Ден Браун",
     "image": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/27624091-den-braun-proishozhdenie-27624091.jpg",
     "price": 710,
@@ -65,7 +65,7 @@
   },
   {
     "id": 8,
-    "title": "7 навичок високоефективних людей",
+    "title": "7 навиків високоефективних людей",
     "author": "Стівен Ков",
     "image": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/4239285--.jpg",
     "price": 347,
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "title": "Девушка во льду",
+    "title": "Дівчина в кризі",
     "author": "Роберт Бриндза",
     "image": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/27351732-robert-bryndza-12646976-devushka-vo-ldu.jpg",
     "price": 882,
@@ -81,7 +81,7 @@
   },
   {
     "id": 10,
-    "title": "Магія утра. Как первий час дня определяет ваш успех",
+    "title": "Магія ранку. Як першгі години дня визначають ваш успіх",
     "author": "Хел елрод",
     "image": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/19063017-hel-elrod-magiya-utra.jpg",
     "price": 829,
@@ -89,7 +89,7 @@
   },
   {
     "id": 11,
-    "title": "Азіатска европеїзація. історія орків. Цар Х...",
+    "title": "Азіатска європеїзація. історія орків. Цар Х...",
     "author": "Боріс Акунін",
     "image": "https://cv3.litres.ru/sbc/31629439_cover_185-elektronnaya-kniga-boris-akunin-aziatskaya-evropeizaciya-istoriya-rossiyskogo-gosudarstva-car-petr-alekseevich.jpg",
     "price": 389,
@@ -105,7 +105,7 @@
   },
   {
     "id": 13,
-    "title": "Атлант расправіл плечі",
+    "title": "Атлант розправив плечі",
     "author": "Айн Ренд",
     "image": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_415/4236675-ayn-rend-atlant-raspravil-plechi.jpg",
     "price": 157,
@@ -113,7 +113,7 @@
   },
   {
     "id": 14,
-    "title": "Цена вопроса. Том 1",
+    "title": "Ціна питання. Том 1",
     "author": "Александра Марініна",
     "image": "https://cv6.litres.ru/sbc/33285466_cover_185-elektronnaya-kniga-aleksandra-marinina-cena-voprosa-tom-1-22638660.jpg",
     "price": 664,
@@ -130,14 +130,14 @@
   {
     "id": 17,
     "title": "Метро 2035",
-    "author": "Дмітрій Глуховскій",
+    "author": "Дмитро Глуховский",
     "image": "https://cv9.litres.ru/sbc/13698392_cover_185-elektronnaya-kniga-dmitriy-gluhovskiy-metro-2035.jpg",
     "price": 837,
     "rating": 4
   },
   {
     "id": 18,
-    "title": "Снеговік",
+    "title": "Сніговик",
     "author": "Ю Несбе",
     "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/4578362-u-nesbe-snegovik-4578362.jpg",
     "price": 796,
@@ -145,7 +145,7 @@
   },
   {
     "id": 19,
-    "title": "Как треніровать память. Не думайте о памяті – лучше іспользуйте її на всі сто!",
+    "title": "Як тренувати пам'ять. Не думайте про пам'ять – краще використовуйте її на всі сто!",
     "author": "Джонатан Хенкок",
     "image": "https://cv1.litres.ru/sbc/14195715_cover_185-elektronnaya-kniga-dzhonatan-henkok-kak-trenirovat-pamyat-ne-dumayte-o-pamyati-luchshe-ispolzuyte-ee-na-vse-sto.jpg",
     "price": 399,

@@ -28,7 +28,7 @@ const CartComponent = ({ title, id, image, removeFromCart }) => (
 )
 
 
-function Menu({ totalPrice, count, items}) {
+function Menu({ totalPrice, count, items }) {
   return (
     <Box sx={{ flexGrow: 1, position: "static" }}>
       <AppBar position="static">
